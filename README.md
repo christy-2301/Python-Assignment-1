@@ -25,3 +25,5 @@ Tools Used
 
 Assignment Overview
 The assignment demonstrates basic operations on strings and tuples, including creating, modifying, accessing, slicing, and manipulating data using Python.
+
+drive link : https://drive.google.com/drive/folders/1XqoY3fErCMuUQXp-PkFh2slYV9ts66eW?usp=sharing
